@@ -15,6 +15,8 @@
 
 PoisonIt is a ARP Poisoning tool.
 
-Run the install.sh file first and then restart the terminal window
-then run poisonit
-# NOTE: THIS TOOL ONLY WORKS ON LINUX OR LINUX DISTROS
+Run the install.sh file first
+restart the terminal window
+run poisonit using the command ```poisonit```
+
+# TESTED ON KALI LINUX AND UBUNTU
