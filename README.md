@@ -1,4 +1,4 @@
-# PoisonIt [UNDER DEVELOPMENT : BUGS FOUND]
+# PoisonIt [installation script works for debian based distros only]
     ########   #######  ####  ######   #######   ##    ## #### ########            ###    ########  ########  
     ##     ## ##     ##  ##  ##    ## ##     ##  ###   ##  ##     ##              ## ##   ##     ## ##     ## 
     ##     ## ##     ##  ##  ##       ##     ##  ####  ##  ##     ##             ##   ##  ##     ## ##     ## 
